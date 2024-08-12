@@ -32,11 +32,11 @@ en: &DEFAULT_EN
         icon: fas fa-map-pin
       - title: "Polisage"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-sun
         
 
   portfolio:
-    title: "Portfolio"
+    title: "our creation"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
