@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "Portfolio"
+    - title: "our creation"
       section: portfolio
     - title: "About"
       section: about
@@ -23,8 +23,7 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -40,7 +39,7 @@ es: &DEFAULT_ES
   nav:
     - title: "Servicios"
       section: servicios
-    - title: "Portafolio"
+    - title: "our creation"
       section: portafolio
     - title: "Sobre Nosotros"
       section: nosotros
@@ -50,8 +49,7 @@ es: &DEFAULT_ES
       section: equipo
     - title: "Contáctenos"
       section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
@@ -63,7 +61,7 @@ de: &DEFAULT_DE
   nav:
     - title: "Leistungen"
       section: Leistungen
-    - title: "Portfolio"
+    - title: "our creation"
       section: Portfolio
     - title: "Über uns"
       section: Ueber
@@ -73,7 +71,6 @@ de: &DEFAULT_DE
       section: Team
     - title: "Kontakt"
       section: Kontakt
-    - title: "Quellcode des Themas"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+
 de-DE:
   <<: *DEFAULT_DE
