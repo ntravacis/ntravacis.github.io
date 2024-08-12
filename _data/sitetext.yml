@@ -27,10 +27,10 @@ en: &DEFAULT_EN
       - title: "Model Design"
         desc: "We offer custom model design services to bring your jewelry ideas to life. Our artisans create precise, detailed models that reflect your vision, blending traditional craftsmanship with modern techniques."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Laser Engraving"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-regular fa-map-pin
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fas fa-map-pin
+      - title: "Polisage"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
         
