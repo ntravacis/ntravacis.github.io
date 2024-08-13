@@ -53,6 +53,9 @@
       -moz-transition: all 0.3s;
       transition: all 0.3s;
     }
+    .ml-auto, .mx-auto {
+    margin: auto !important;
+}
     .navbar-nav {
       .nav-item {
         .nav-link {
