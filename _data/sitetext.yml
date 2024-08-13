@@ -37,7 +37,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "our creation"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Select your design, and we’ll craft the perfect piece of jewelry for you."
     section: portfolio
     closebutton: "Close Project"
 
@@ -75,7 +75,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "At Ntravacis, every piece of jewelry is crafted and repaired with the utmost care and passion. With over 40 years of experience in the field, we take pride in our commitment to quality and precision. Each creation is a testament to our dedication to the craft, ensuring that every jewel we work on not only meets but exceeds your expectations. Trust us to bring your visions to life, knowing that your jewelry is in the hands of a skilled and passionate artisan."
     section: about
 
   clients:
