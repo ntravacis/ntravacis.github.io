@@ -112,16 +112,17 @@ en: &DEFAULT_EN
     #        icon: fab fa-facebook-f
     #      - url: https://linkedin.com
      #       icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Vestingstraat 26, 3 
+Verdiepingen Nummer 11"  
+        role: "2018 Antwerpen"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        #  - url: https://twitter.com
+         #  icon: fab fa-twitter
+          - url: https://maps.app.goo.gl/3SQJsU7MsdYgCA9t8
+            icon: fab fa-map
+         # - url: https://linkedin.com
+         #   icon: fab fa-linkedin-in
    #   - name: "Diana Perterson"
    #     role: "Lead Developer"
    #     image: assets/img/team/500x500.jpg
