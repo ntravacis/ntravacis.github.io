@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Repairs"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Trust us to restore your jewelry with meticulous care and attention to detail."
         icon: fas fa-ring #find more at https://fontawesome.com/icons
       - title: "Model Design"
         desc: "We offer custom model design services to bring your jewelry ideas to life. Our artisans create precise, detailed models that reflect your vision, blending traditional craftsmanship with modern techniques."
@@ -31,7 +31,7 @@ en: &DEFAULT_EN
     #    desc: "Your description here, full **Markdown** support"
     #    icon: fas fa-map-pin
       - title: "Polisage"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Restore the shine to your jewelry with our professional polishing service."
         icon: fas fa-sun
         
 
@@ -97,9 +97,9 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Where are we?"
+    text: "You can find our address here"
+   # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
     #  - name: "Kay Garland"
