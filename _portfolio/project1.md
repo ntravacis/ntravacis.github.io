@@ -1,12 +1,12 @@
 ---
 title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle:
 image: assets/img/portfolio/01-thumbnail.jpg
 alt: Shirts on a hanger
 
 caption:
   title: Threads
-  subtitle: Illustration
+  subtitle:
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 
@@ -14,6 +14,3 @@ Use this area to describe your project. **Markdown** supported. This entry (proj
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
