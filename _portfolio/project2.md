@@ -1,7 +1,7 @@
 ---
 title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/06-thumbnail.jpg
+image: assets/img/portfolio/02-thumbnail.jpg
 alt: Keep Exploring
 
 caption:
